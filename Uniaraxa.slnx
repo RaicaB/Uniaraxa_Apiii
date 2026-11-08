@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/01 - Domain/">
+    <Project Path="Uniaraxa.Domain/Uniaraxa.Domain.csproj" />
+  </Folder>
+  <Folder Name="/02 - Infra/">
+    <Project Path="Uniaraxa.Infra/Uniaraxa.Infra.csproj" />
+  </Folder>
+  <Folder Name="/03 - Services/">
+    <Project Path="Uniaraxa.Service/Uniaraxa.Service.csproj" />
+  </Folder>
+  <Folder Name="/04 - Aplication/">
+    <Project Path="Uniaraxa.APII/Uniaraxa.APII.csproj" />
+  </Folder>
+</Solution>
